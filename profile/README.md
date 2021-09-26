@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![PACK Solutions headquarters](pack-solutions-headquarters.jpg)
+![PACK Solutions headquarters](https://raw.githubusercontent.com/PACK-Solutions/.github/main/profile/pack-solutions-headquarters.jpg)
 
 We are _PACK Solutions_, a French company that builds software solutions for our clients and for ourselves in the insurance industry.
 
